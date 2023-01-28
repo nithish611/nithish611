@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nithish611
 - 👀 I’m interested in Problem Solving 
-- 🌱 I’m currently learning Java And Spring Boot
-- 💞️ I’m looking to collaborate on Backed Dev
+- 🌱 I’m currently learning Java And Computer Networks
+- 💞️ I’m looking to collaborate on Backed Development
 - 📫 How to reach me nithishsub@gmail.com
 
 <!---
