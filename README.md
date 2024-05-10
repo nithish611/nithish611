@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nithish611
 - 👀 I’m interested in Problem Solving 
-- 🌱 I’m currently learning Java And Computer Networks
-- 💞️ I’m looking to collaborate on Backed Development
+- 🌱 I’m currently working as node js developer
 - 📫 How to reach me nithishsub@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish611&label=Profile%20views&color=0e75b6&style=flat" alt="nithish611" /> </p>
