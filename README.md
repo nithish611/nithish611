@@ -4,8 +4,7 @@ Backend engineer focused on **identity, authorization, and MCP infrastructure**.
 I build the plumbing that decides *who* can call *what* — OAuth 2.1 / OIDC flows,
 ReBAC authorization models, and enterprise MCP gateways.
 
-🔧 **Currently building** — Enterprise MCP gateway authorization: per-tenant OAuth
-   client isolation, Dynamic Client Registration hardening, and fine-grained
+🔧 **Currently building** — Enterprise MCP gateway authorization: OAuth 2.1, Dynamic Client Registration hardening, and fine-grained
    access control with OpenFGA (Zanzibar-style ReBAC).
 
 🧠 **Deep interests** — OAuth/OIDC internals, Node.js event loop & V8, distributed
